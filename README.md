@@ -6,7 +6,7 @@ This repo contains updated files for the [honeytrap-playground](https://docs.hon
 
 ### Setup WSL 2 on Windows 10
 
-If you don't have WSL setup on Windows you can follow this [guide](https://docs.microsoft.com/en-us/windows/wsl/install-win10) from Windows. It will walk you through the setup process and how you how to config WSL2, which is needed for the next section
+If you don't have WSL setup on Windows you can follow this [guide](https://docs.microsoft.com/en-us/windows/wsl/install-win10) from Windows. It will walk you through the setup process and how you how to config WSL2, which is needed for the next section.
 
 ### Setting up Docker Desktop and WSL
 
